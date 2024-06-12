@@ -1,0 +1,59 @@
+1) Ubiquidade da Computação e Direito
+É vantajoso dominar os conceitos fundamentais da computação ao lidar com o Direito porque:
+
+Interseção crescente: A tecnologia está cada vez mais integrada em atividades jurídicas, como contratos eletrônicos e proteção de dados.
+Regulação complexa: Leis como LGPD e GDPR exigem compreensão técnica para aplicação eficaz.
+Implicações éticas e sociais: Questões como privacidade, segurança cibernética e responsabilidade digital requerem entendimento das tecnologias subjacentes.
+2) Termos da Computação
+a) Algoritmo: Sequência finita de passos para resolver um problema computacional.
+
+b) Nuvem: Infraestrutura de computação remota (servidores, armazenamento, redes) acessível pela internet para armazenar, gerenciar e processar dados.
+
+c) Servidor: Computador ou sistema de computação que fornece recursos (como arquivos, dados, serviços) para outros dispositivos na rede.
+
+d) Neutralidade da Rede: Princípio que defende tratar todo tráfego de internet de forma igual, sem discriminação por tipo de conteúdo, site, plataforma, aplicativo, etc.
+
+e) Arquivo: Conjunto de dados armazenados em um dispositivo de armazenamento, podendo incluir texto, imagens, vídeos, etc.
+
+3) Organização dos Conceitos na Internet
+A palavra "Internet" organiza conceitos diferentes como máquinas (dispositivos físicos), cabos (infraestrutura física), programas (software que executa funções específicas) e dados (informações processadas e transmitidas) através de protocolos de comunicação padronizados.
+
+4) Motivação para a Invenção dos Computadores
+Computadores foram inventados para automatizar tarefas repetitivas, realizar cálculos complexos rapidamente e processar grandes volumes de dados, liberando humanos para atividades mais criativas e estratégicas.
+
+5) Limitações de Redes Neurais Artificiais
+Redes neurais artificiais não podem tomar decisões médicas ou de concessão de empréstimos devido à falta de transparência em suas decisões (caixa preta), necessidade de treinamento específico para cada domínio e ausência de julgamento ético e contextual humano. Modelos como lógica fuzzy poderiam ser mais adequados para certos tipos de decisões devido à sua capacidade de lidar com incertezas e imprecisões.
+
+6) Diferença entre Arquivo "Binário" e "de Texto"
+Um arquivo "binário" contém dados interpretados por computadores, enquanto um arquivo "de texto" contém caracteres legíveis por humanos, codificados em ASCII ou UTF-8.
+
+7) Diferença entre Formato Proprietário e Formato Aberto de Arquivos
+Formatos proprietários são controlados por uma entidade específica, enquanto formatos abertos são publicamente definidos e acessíveis, promovendo interoperabilidade e transparência. Isso é crucial para dados públicos, garantindo acessibilidade a longo prazo e evitando dependência de fornecedores.
+
+8) Protocolo de Comunicação Aberto vs. Proprietário
+Protocolos de comunicação abertos são definidos publicamente, promovendo inovação, concorrência e liberdade econômica, enquanto os proprietários são controlados por uma entidade, limitando a interoperabilidade e a concorrência.
+
+9) Sistema Operacional
+a) Sistema Operacional: Software que gerencia recursos de hardware, fornece interface entre usuário e computador, e executa programas.
+
+b) Variedade de Sistemas: Existem diversos sistemas operacionais disponíveis, como Windows, macOS, Linux, etc.
+
+c) Venda Casada: Vender computadores com sistemas operacionais pré-instalados pode ser considerado venda casada se não houver opção clara para escolher um sistema alternativo ou sem sistema operacional.
+
+10) LGPD (Lei Geral de Proteção de Dados)
+a) Abrangência: Sim, a LGPD se aplica a data centers em países estrangeiros se processarem dados de cidadãos brasileiros.
+
+b) Servidores de Aplicação: Discussões sobre adequação dos servidores de aplicação envolvem conformidade com políticas de conteúdo e tratamento de informações que podem afetar reputações, exigindo conformidade com as regras da comunidade e combate a informações falsas.
+
+11) Python: Estruturas e Operadores
+a) Estruturas de Repetição: for e while.
+
+b) Blocos de Comando: São definidos por indentação em Python.
+
+c) Operador +: Realiza a adição aritmética (soma de números) e concatenação de strings (união de cadeias de caracteres).
+
+d) Função: Bloco de código que realiza uma tarefa específica e pode ser reutilizado.
+
+e) Definindo uma Função: Utilizando a palavra-chave def seguida do nome da função e seus parâmetros.
+
+f) Estruturas de Tomada de Decisão: if, else e elif (para múltiplas condições).
